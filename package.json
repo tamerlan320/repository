@@ -1,0 +1,29 @@
+{
+  "name": "tamerlan",
+  "version": "1.0.0",
+  "description": ":)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tamerlan": "echo 'tamerlan'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "tamerlan",
+  "license": "ISC",
+  "dependencies": {
+    "mongose": "0.0.2-security",
+    "nodemailer": "^6.6.1",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.7.2"
+  },
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/tamerlan320/tamerlan3.git"
+  }
+}
